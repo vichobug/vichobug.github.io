@@ -1,0 +1,65 @@
+body {
+    font-family: Georgia, serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+    background: #f9f6f1;
+    color: #1a1a1a;
+    line-height: 1.75;
+  }
+  
+  nav {
+    margin-bottom: 2rem;
+  }
+  
+  nav a {
+    margin-right: 1.5rem;
+    text-decoration: none;
+    color: #1a1a1a;
+    font-size: 0.95rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+  
+  nav a:hover {
+    color: #c8612a;
+  }
+  
+  h1 {
+    font-size: 1.4rem;
+    font-weight: normal;
+    line-height: 1.8;
+    margin-bottom: 2rem;
+  }
+  
+  h2 {
+    font-size: 1.3rem;
+    font-weight: normal;
+    margin-bottom: 1rem;
+  }
+  
+  p {
+    margin-bottom: 1.5rem;
+  }
+  
+  img {
+    width: 100%;
+    margin: 1.5rem 0;
+    border-radius: 6px;
+  }
+  
+  #contact {
+    margin-top: 3rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid #ddd;
+  }
+  
+  #contact a {
+    margin-right: 1.5rem;
+    color: #c8612a;
+    text-decoration: none;
+  }
+  
+  #contact a:hover {
+    text-decoration: underline;
+  }
